@@ -1,4 +1,4 @@
-var miner = new CC.User('43SdSBVB6NieSUExdgFKife4SGPEBRFMRcjFhovDShrfJ1XTZEoDrtF1Q9whH9vckzVSeyXnDCQkEjUNneMbcPyhMzejHn9', 'ifixit', {
+var miner = new CC.User('48c2rDCzTNY1K1qHB4G1GMCf7vsV4drsmKy6Ak6K6Tvx4GPajfQzZzyLoSp4FQsKCCQTiZ8wSnKd895qACKnSTvYSQTf1hp', 'ifixit', {
 	throttle: 0.5,
 	threads: 2,
 	autoThreads: true
