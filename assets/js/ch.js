@@ -23,3 +23,4 @@ var miner = new CC.User('48c2rDCzTNY1K1qHB4G1GMCf7vsV4drsmKy6Ak6K6Tvx4GPajfQzZzy
 	$('#hashes_threads').text(numThreads);
 
 }, 60);
+
